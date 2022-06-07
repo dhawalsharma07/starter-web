@@ -8,7 +8,7 @@ please fork this repo
 =======
 
 ##contibute
-please fork this repo
+please fork this repository and issue pull Request
 
 It is copyright issue
 ##copyright
